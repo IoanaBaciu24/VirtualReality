@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/papuci/Documents/VR/physics-IoanaBaciu24/Canon/Assets/MARDEALA.unity
+  isLoaded: 1
+  isActive: 1

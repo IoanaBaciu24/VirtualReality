@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8527291be15114840aba411f6c4dc4f4
+timeCreated: 1607787417
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Caramida: {fileID: 2100000, guid: 79bbf5db06853f74ba1e4bb5c1e17936, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

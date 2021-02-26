@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/papuci/Documents/VR/BeeFobiaHelper/BeeFobia/Assets/BeeScene.unity
+  isLoaded: 1
+  isActive: 1
